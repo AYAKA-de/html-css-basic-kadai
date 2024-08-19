@@ -1,6 +1,7 @@
 #top {
   width: 800px;
   padding: 20px auto;
+  margin: auto;
   background-color: #dcc9f4;
   text-align: center;
 }
@@ -14,7 +15,7 @@
 #middle {
   width: 800px;
   height: 800px;
-  margin: 20px 0px;
+  margin: 20px auto;
   background-color: #ffd9df;
   position: relative;
 }
@@ -49,6 +50,7 @@
 #bottom {
   width: 800px;
   height: 300px;
+  margin: auto;
   background-color: #87ceeb;
 }
 
